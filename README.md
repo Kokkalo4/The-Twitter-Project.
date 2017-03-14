@@ -1,5 +1,5 @@
 # The-Twitter-Project.
-A guide to mining and analyzing tweets from Twitter.
+Mining and analyzing tweets from Twitter.
 
 The purpose of this project is to mine and analyze tweets that were mined from Twitter.
 
